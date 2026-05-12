@@ -35,3 +35,6 @@ Compile the program:
 
 ```bash
 g++ main.cpp student.cpp -o app
+
+## Author
+Disha
