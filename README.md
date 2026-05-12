@@ -21,6 +21,7 @@ A console-based Student Management System developed in C++ using Object-Oriented
 
 ## Project Structure
 
+```text
 student-management-system/
 │
 ├── main.cpp
@@ -28,6 +29,7 @@ student-management-system/
 ├── student.h
 ├── data.txt
 └── README.md
+```
 
 ## How to Run
 
