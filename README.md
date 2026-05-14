@@ -38,8 +38,12 @@ Compile the program:
 ```bash
 g++ main.cpp student.cpp -o app
 ```
-## Author
+# Author
 
-Disha Ghadiya
+**Disha Ghadiya**
+
+- GitHub: https://github.com/ghadiyadisha748
+
+---
 
 
